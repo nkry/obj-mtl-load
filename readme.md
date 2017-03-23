@@ -1,5 +1,5 @@
 # obj-mtl-load
-Node module for using [ObjLoader] (https://github.com/mrdoob/three.js/blob/master/examples/js/loaders/OBJLoader.js) and [MTLLoader] (https://github.com/mrdoob/three.js/blob/master/examples/js/loaders/MTLLoader.js)
+Node module for using Mr.Doob's *ObjLoader* and *MTLLoader* with Three JS
 
 ## Initialization
 *w.i.p*

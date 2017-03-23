@@ -1,6 +1,6 @@
 {
   "name": "obj-mtl-load",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node JS module for Mr.Doob's OBJLoader and MTLLoader",
   "main": "index.js",
   "scripts": {
